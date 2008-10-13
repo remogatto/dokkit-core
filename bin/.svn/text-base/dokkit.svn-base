@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require 'dokkit/application'
+require 'dokkit/logging'
+
+# Put your code here
+Dokkit::Application.new( Dokkit::Logging::Observer::Console.new(Dokkit::Logging::Logger.new).logger ).run
+# EOF

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/filters
+END
+maruku_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/filters/maruku_spec.rb
+END
+erb_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/195/dokkit-core/trunk/spec/dokkit/filters/erb_spec.rb
+END
+tidy_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/192/dokkit-core/trunk/spec/dokkit/filters/tidy_spec.rb
+END
+deplate_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/164/dokkit-core/trunk/spec/dokkit/filters/deplate_spec.rb
+END
+haml_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/195/dokkit-core/trunk/spec/dokkit/filters/haml_spec.rb
+END
+nil_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/164/dokkit-core/trunk/spec/dokkit/filters/nil_spec.rb
+END
+yaml_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/filters/yaml_spec.rb
+END

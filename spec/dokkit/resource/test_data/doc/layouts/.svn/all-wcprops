@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/resource/test_data/doc/layouts
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/resource/test_data/doc/layouts/layout.html
+END
+layout.text
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/resource/test_data/doc/layouts/layout.text
+END
+document.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/195/dokkit-core/trunk/spec/dokkit/resource/test_data/doc/layouts/document.html
+END
+document.text
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/195/dokkit-core/trunk/spec/dokkit/resource/test_data/doc/layouts/document.text
+END
+inner.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/resource/test_data/doc/layouts/inner.html
+END

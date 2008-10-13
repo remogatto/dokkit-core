@@ -1,0 +1,80 @@
+---
+title: The simple model
+format:
+- html
+- latex
+- text
+---
+
+#LIST: toc
+
+* Description of the model
+
+The simple model is built-in in the ''dokkit'' core distribution. You
+can use this model as a base to create simple documents like static
+websites, tutorials, howtos, technical reports, etc.
+
+* Edit and render your document
+
+To edit the content of the document simply edit ''simple.deplate'' in
+the ''doc/pages'' folder or create a new file in the ''doc/pages''
+directory.
+
+To get further information about the deplate wiki syntax used in
+''simple.deplate'', please check
+[[http://deplate.sf.net/deplate.html][deplate]] homepage.
+
+To render this document in ''html'', ''latex'' and ''plain text'',
+open a terminal and type:
+
+#Verbatim <<EOB
+rake
+EOB
+
+from the top-level directory or from any subdirectory contained in it.
+  
+You should get output files in the ''output'' folder.
+
+* Rendering the modified parts of the document and cleaning up
+
+Once you have rendered the document, running the ''rake'' command
+again will appear to do nothing, because only changed resources are
+re-rendered.  To clean the output and start over run:
+
+#Verbatim <<EOB
+rake clobber
+EOB
+
+Note that if you modify any part of the document you must re-run
+''rake'' command in order to apply changes and to re-generate the
+desidered output.
+
+So, once you have modified your document, run:
+
+#Verbatim <<EOB
+rake
+EOB
+
+Only the modified resources will be transformed.
+
+* Configure the documentation environment
+
+To configure your documentation environment edit the
+''setup/setup.rb'' file according to the instructions on ''dokkit''
+website.
+
+* What's next?
+
+ - See what else you can do by typing:
+
+#Verbatim <<EOB
+rake --tasks
+EOB
+
+ - Modify the configuration of the document by editing
+   ''doc/configs/simple.yaml'' or by editing the meta configuration
+   information on the top of this file.
+
+ - Override the default layout creating custom layouts in ''doc/layouts''.
+
+For further information about ''dokkit'' see http://dokkit.rubyforge.org/.

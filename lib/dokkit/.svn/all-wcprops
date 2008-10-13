@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/198/dokkit-core/trunk/lib/dokkit
+END
+hash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/176/dokkit-core/trunk/lib/dokkit/hash.rb
+END
+cache.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/175/dokkit-core/trunk/lib/dokkit/cache.rb
+END
+application.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/198/dokkit-core/trunk/lib/dokkit/application.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/198/dokkit-core/trunk/lib/dokkit/environment.rb
+END
+logging.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/198/dokkit-core/trunk/lib/dokkit/logging.rb
+END
+resource.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/168/dokkit-core/trunk/lib/dokkit/resource.rb
+END
+factory.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/168/dokkit-core/trunk/lib/dokkit/factory.rb
+END
+filters.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/198/dokkit-core/trunk/lib/dokkit/filters.rb
+END
+tasklib.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/198/dokkit-core/trunk/lib/dokkit/tasklib.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/tasklib
+END
+render_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/tasklib/render_spec.rb
+END
+clean_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/tasklib/clean_spec.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/environment/test_data/doc/pages
+END
+document_1.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/172/dokkit-core/trunk/spec/dokkit/environment/test_data/doc/pages/document_1.yaml
+END
+document_2
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/164/dokkit-core/trunk/spec/dokkit/environment/test_data/doc/pages/document_2
+END
+document_1
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/164/dokkit-core/trunk/spec/dokkit/environment/test_data/doc/pages/document_1
+END

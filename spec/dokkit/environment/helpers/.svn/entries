@@ -1,0 +1,55 @@
+8
+
+dir
+199
+http://dokkit.rubyforge.org/svn/dokkit-core/trunk/spec/dokkit/environment/helpers
+http://dokkit.rubyforge.org/svn
+
+
+
+2008-06-10T18:29:03.517123Z
+172
+remogatto
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b26f7ac8-6c1f-0410-becd-f13531dd3eb2
+
+fileselection_spec.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+3b32a64040c7cc1172151d00c14374c1
+2008-06-10T18:29:03.517123Z
+172
+remogatto
+
+test_data
+dir
+
+extmap_spec.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+eb4f6b328346e59afd5671cf26b3dead
+2008-06-10T18:29:03.517123Z
+172
+remogatto
+

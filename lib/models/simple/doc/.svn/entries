@@ -1,0 +1,40 @@
+8
+
+dir
+199
+http://dokkit.rubyforge.org/svn/dokkit-core/trunk/lib/models/simple/doc
+http://dokkit.rubyforge.org/svn
+
+
+
+2008-08-05T14:06:43.620427Z
+195
+remogatto
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b26f7ac8-6c1f-0410-becd-f13531dd3eb2
+
+pages
+dir
+
+layouts
+dir
+
+configs
+dir
+
+data
+dir
+

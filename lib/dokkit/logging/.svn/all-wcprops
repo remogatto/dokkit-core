@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/178/dokkit-core/trunk/lib/dokkit/logging
+END
+logger.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/178/dokkit-core/trunk/lib/dokkit/logging/logger.rb
+END
+observers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/168/dokkit-core/trunk/lib/dokkit/logging/observers.rb
+END

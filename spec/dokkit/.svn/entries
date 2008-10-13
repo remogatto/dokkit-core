@@ -1,0 +1,88 @@
+8
+
+dir
+199
+http://dokkit.rubyforge.org/svn/dokkit-core/trunk/spec/dokkit
+http://dokkit.rubyforge.org/svn
+
+
+
+2008-08-18T16:39:07.851872Z
+198
+remogatto
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b26f7ac8-6c1f-0410-becd-f13531dd3eb2
+
+application_spec.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+3e61cc04e5f6178cd5be962b0fde044f
+2008-08-10T06:20:09.577229Z
+197
+remogatto
+
+hash_spec.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+98859e8518b189d80dfda4286050e11b
+2008-06-23T12:14:20.504879Z
+176
+remogatto
+
+dokkit_spec.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+7eab69010bbf944642dec07f9d1344ec
+2008-05-09T10:23:51.419330Z
+171
+remogatto
+
+cache
+dir
+
+environment
+dir
+
+logging
+dir
+
+factory
+dir
+
+resource
+dir
+
+filters
+dir
+
+test_data
+dir
+
+tasklib
+dir
+

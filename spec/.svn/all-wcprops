@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/198/dokkit-core/trunk/spec
+END
+TEMPLATE.rb.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/198/dokkit-core/trunk/spec/TEMPLATE.rb.tpl
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/198/dokkit-core/trunk/spec/spec_helper.rb
+END
+spec.opts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/156/dokkit-core/trunk/spec/spec.opts
+END

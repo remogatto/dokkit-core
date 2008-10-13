@@ -1,0 +1,102 @@
+---
+title: The simpledocument model
+:targets:
+- :html
+- :latex
+- :text
+---
+
+%% Dynamic generation of the Table of Contents.
+%% Generate TOC only if formatter is different from html.
+
+#IF: fmt==html-notemplate
+#VAR: headings=plain
+#ELSE
+#LIST: toc
+----8<----
+#ENDIF
+
+
+* Description of the model
+
+This is a simple document model for ''dokkit''. You can use this model
+as a base to create simple documents like tutorials, howtos, technical
+reports, etc.
+
+* Edit and render your document
+
+To edit the content of the document simply edit
+''simpledocument.deplate'' in ''doc/pages'' folder or create a new
+file in ''doc/pages'' directory.
+
+To get further information about the deplate wiki syntax please check
+[[http://deplate.sf.net/deplate.html][deplate]] homepage.
+
+To render this document in ''html'', ''tex'' and ''plain text'', open a terminal and type:
+
+#Verbatim <<EOB
+$ dokkit ## or rake
+EOB
+
+from the top-level directory or from any subdirectory contained in it.
+  
+You should get the output files in the 'output' folder.
+
+* Rendering the modified parts of the document and cleaning up
+
+Once you have rendered the document, running the ''dokkit'' command again will
+appear to do nothing, because only changed resources are re-rendered.
+To clean the output and start over run:
+
+#Verbatim <<EOB
+$ dokkit clobber
+EOB
+
+Note that if you modify any part of the document then you must re-run
+''dokkit'' command in order to apply changes and to re-generate the
+desidered output. 
+
+So, once you have modified your document, run:
+
+#Verbatim <<EOB
+$ dokkit ## or rake
+EOB
+
+Only the modified resources will be transformed.
+
+* Configure the documentation environment
+
+To configure your documentation environment edit the *.rake files in
+''tasks'' folder.
+
+* How to get other ''dokkit'' models
+
+To search for other document models open a terminal and type:
+
+#Verbatim <<EOB
+$ gem list dokkit-model
+EOB
+
+To get a particular model named <model_name> run:
+
+#Verbatim <<EOB
+$ gem install dokkit-model-<model_name>
+EOB
+
+or check http://rubyforge.org/projects/dokkit/. 
+
+* What's next?
+
+ * See what else you can do by typing:
+
+   ''$ dokkit --tasks''
+
+
+ - Modify the configuration of the document by editing
+   ''doc/config/simpledocument.yaml''.
+
+ - Override the default layout creating in custom layouts in ''doc/layouts''.
+
+For further information about ''dokkit'' see http://dokkit.rubyforge.org/.
+
+

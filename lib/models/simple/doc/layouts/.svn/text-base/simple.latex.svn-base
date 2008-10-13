@@ -1,0 +1,11 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{color}
+\usepackage{hyperref}
+\usepackage{<%= relative('/latex/deplate') %>}
+
+\begin{document}
+
+<%= @content_for_layout %>
+
+\end{document}

@@ -1,0 +1,9 @@
+<html>
+<link href="<%= relative('/html/css/style.css') %>" rel="stylesheet" type="text/css" media="screen" />
+<head>
+  <title><%= title %></title>
+</head>
+<body>
+  <%= @content_for_layout %>
+</body>
+</html>

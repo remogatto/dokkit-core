@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/resource/extensions
+END
+html_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/resource/extensions/html_spec.rb
+END
+url_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/198/dokkit-core/trunk/spec/dokkit/resource/extensions/url_spec.rb
+END

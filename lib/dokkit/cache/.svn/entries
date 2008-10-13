@@ -1,0 +1,40 @@
+8
+
+dir
+199
+http://dokkit.rubyforge.org/svn/dokkit-core/trunk/lib/dokkit/cache
+http://dokkit.rubyforge.org/svn
+
+
+
+2008-07-10T18:21:07.592582Z
+178
+remogatto
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b26f7ac8-6c1f-0410-becd-f13531dd3eb2
+
+cache.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+a414afab9e1b6f2d501efb2e3c1d1046
+2008-07-10T18:21:07.592582Z
+178
+remogatto
+

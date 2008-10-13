@@ -1,0 +1,157 @@
+8
+
+dir
+199
+http://dokkit.rubyforge.org/svn/dokkit-core/trunk/lib/dokkit
+http://dokkit.rubyforge.org/svn
+
+
+
+2008-08-18T16:39:07.851872Z
+198
+remogatto
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b26f7ac8-6c1f-0410-becd-f13531dd3eb2
+
+hash.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+0db5bf1f90e7821f42620eef0c7ac0a8
+2008-06-23T12:14:20.504879Z
+176
+remogatto
+
+logging
+dir
+
+resource
+dir
+
+logging.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+810909ca5e8d358a04ca1723809f28bc
+2008-08-18T16:39:07.851872Z
+198
+remogatto
+
+resource.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+5af0c37fc280fd923cdcfecfb9e867a7
+2008-05-04T15:55:43.645544Z
+168
+remogatto
+
+tasklib
+dir
+
+tasklib.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+9a6c298966182918ab3b5c8e1f816856
+2008-08-18T16:39:07.851872Z
+198
+remogatto
+
+cache
+dir
+
+environment
+dir
+
+application.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+6544e6c9bc6f63a471c0a13360e07440
+2008-08-18T16:39:07.851872Z
+198
+remogatto
+
+cache.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+8c423c028c4bc7c534e03a6d69dd3fb5
+2008-06-19T12:45:34.191554Z
+175
+remogatto
+
+environment.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+56b62dc9051c9ad5850e06aaacf576b5
+2008-08-18T16:39:07.851872Z
+198
+remogatto
+
+factory
+dir
+
+filters
+dir
+
+factory.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+93b65d162de7bfb839da6311b69c1c25
+2008-05-04T15:55:43.645544Z
+168
+remogatto
+
+filters.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+1562dba7d7c78426dbae15fe6554b6d4
+2008-08-18T16:39:07.851872Z
+198
+remogatto
+

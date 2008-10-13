@@ -1,0 +1,55 @@
+8
+
+dir
+199
+http://dokkit.rubyforge.org/svn/dokkit-core/trunk/lib/dokkit/logging
+http://dokkit.rubyforge.org/svn
+
+
+
+2008-07-10T18:21:07.592582Z
+178
+remogatto
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b26f7ac8-6c1f-0410-becd-f13531dd3eb2
+
+logger.rb
+file
+
+
+
+
+2008-10-13T14:08:30.000000Z
+0716a3cda835070c6487fa8ad300c4d0
+2008-07-10T18:21:07.592582Z
+178
+remogatto
+
+observers
+dir
+
+observers.rb
+file
+
+
+
+
+2008-10-13T14:08:30.000000Z
+bfa7fa48aeb266975636aa9594caaa91
+2008-05-04T15:55:43.645544Z
+168
+remogatto
+

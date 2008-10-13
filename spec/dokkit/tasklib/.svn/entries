@@ -1,0 +1,55 @@
+8
+
+dir
+199
+http://dokkit.rubyforge.org/svn/dokkit-core/trunk/spec/dokkit/tasklib
+http://dokkit.rubyforge.org/svn
+
+
+
+2008-08-18T16:39:07.851872Z
+198
+remogatto
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b26f7ac8-6c1f-0410-becd-f13531dd3eb2
+
+test_data
+dir
+
+render_spec.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+fde6cdeb4b8a4a3cdd2b8b7d6cf19c3e
+2008-08-18T16:39:07.851872Z
+198
+remogatto
+
+clean_spec.rb
+file
+
+
+
+
+2008-10-13T14:08:31.000000Z
+be15ddea253bbbad9d09963cd8c701c9
+2008-08-18T16:39:07.851872Z
+198
+remogatto
+
